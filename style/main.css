@@ -15,6 +15,8 @@ header {
 nav {
     background-color: #01c92d;
     overflow: hidden;
+    justify-content: center;
+    
 }
 
 nav a {
@@ -24,10 +26,13 @@ nav a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    justify-content: center;
+    
 }
 
 nav a:hover {
     background-color: #55555500;
+    justify-content: center;
 }
 
 section {
